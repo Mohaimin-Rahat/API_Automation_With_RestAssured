@@ -1,0 +1,8 @@
+2023-12-02 00:39:31 INFO  URL:19 - URI End Point : https://jnswdazms1.execute-api.us-east-1.amazonaws.com/dev/toll-collection-list
+2023-12-02 00:39:31 INFO  Base:155 - Inside GETRequest call
+2023-12-02 00:39:34 INFO  TestUtils:64 - Getting Response Message
+2023-12-02 00:39:34 INFO  TestUtils:66 - Response Message for message: success
+2023-12-02 00:39:34 INFO  TestUtils:34 - Both texts are same
+2023-12-02 00:39:34 INFO  TestUtils:64 - Getting Response Message
+2023-12-02 00:39:34 INFO  TestUtils:66 - Response Message for statusCode: 200
+2023-12-02 00:39:34 INFO  TestUtils:34 - Both texts are same

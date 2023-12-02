@@ -1,0 +1,3 @@
+2023-12-02 00:35:19 INFO  URL:19 - URI End Point : https://jnswdazms1.execute-api.us-east-1.amazonaws.com/dev/toll-collection-list
+2023-12-02 00:35:19 INFO  Base:155 - Inside GETRequest call
+2023-12-02 00:35:19 INFO  TestUtils:64 - Getting Response Message
